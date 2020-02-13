@@ -36,7 +36,7 @@ def get_review(business_id, req_count):
     '''
     STEP 1: Request a Client ID and Client Secret from FatSecret
     '''
-    API_KEY = 'fDI-ka8iQSOUpQMRjxKI_pTqi_gulLL-b1EnIZXaqso-wlPVpXz8V4AH9LiSmVT5fisYbaDKsjT0njVWgxU2nemQmAAFTYPo5Ceu5IcW5Ln3jJxG0fSdZDG0ZHx_XXYx'
+    API_KEY = '<<Secret>>'
 
     '''
     Step 2. Using the API key to call an YGQL Endpoint
